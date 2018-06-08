@@ -1,3 +1,15 @@
+# DEPRECATED
+
+In order to best conform with Rollup recommendations for plugin naming and also provide a more integrated solution this module is no longer active. The new version has many enhancements over this so please switch to it.
+
+## Please use [rollup-config-analyzer](https://github.com/doesdev/rollup-config-analyzer)
+
+### * The prior plugin module is also no longer active, in favor of using Rollup's standardized naming format for plugins.
+
+#### For the plugin please use [rollup-plugin-analyzer](https://github.com/doesdev/rollup-plugin-analyzer) rather than anything listed down the page.
+
+
+
 # rollup-analyzer-config [![NPM version](https://badge.fury.io/js/rollup-analyzer-config.svg)](https://npmjs.org/package/rollup-analyzer-config)   [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)   [![Dependency Status](https://dependencyci.com/github/doesdev/rollup-analyzer-config/badge)](https://dependencyci.com/github/doesdev/rollup-analyzer-config)
 
 > Analyze file sizes of rollup bundled imports
